@@ -1,0 +1,1 @@
+log(fabs(-exp(pow(sin(100),2)+pow(cos(100),2))))*sqrt((10+2)*8+4)
